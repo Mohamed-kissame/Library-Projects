@@ -1,0 +1,29 @@
+﻿  String Library Project.cpp
+C:\Course 10 oop\String Library Project\clsString.h(164,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Course 10 oop\String Library Project\clsString.h(169,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Course 10 oop\String Library Project\clsString.h(231,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Course 10 oop\String Library Project\clsString.h(305,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Course 10 oop\String Library Project\clsString.h(337,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Course 10 oop\String Library Project\clsString.h(434,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Course 10 oop\String Library Project\clsString.h(478,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Course 10 oop\String Library Project\clsString.h(566,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Course 10 oop\String Library Project\clsString.h(572,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+  String Library Project.vcxproj -> C:\Course 10 oop\String Library Project\x64\Debug\String Library Project.exe
